@@ -109,8 +109,6 @@ int main()
     std::cout << "Map after synchronization:" << std::endl;
     print_container(m_container);
 
-    int a;
-    std::cin >> a;
     return 1;
 }
 
